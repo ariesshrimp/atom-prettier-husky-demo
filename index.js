@@ -1,14 +1,13 @@
 'use strict'
 
 const x = 2
-var y = ''
+var y = '' + x
 
-var somethinGelte
 let z = a =>
 b =>
   x =>
 
 
   function ({ ...all}) {
-  if (all) return new somethinGelte
+  if (all) return a - b - x - z - y
 }
